@@ -1,0 +1,3 @@
+alias add="git add ."
+alias commit="git commit -m "fixing"
+alias push="git push"      
