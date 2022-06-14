@@ -3,3 +3,5 @@ alias commit="git commit -m "fixing"
 alias push="git push" 
 OPEN : vi ~/.zshrc   and add this line      
 alias add="git add ."  commit="git commit -m fixing"  push="git push" 
+
+add && commit && push
